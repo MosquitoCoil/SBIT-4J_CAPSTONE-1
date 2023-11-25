@@ -95,7 +95,8 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link text-dark" style="font-size: 80%; font-weight:lighter;" href="patient/registration"><i class="fas fa-user-edit"></i> Register</a>                    </li>
+                        <a class="nav-link text-dark" style="font-size: 80%; font-weight:lighter;" href="patient/registration"><i class="fas fa-user-edit"></i> Register</a>                    
+                    </li>
                 </ul>
 
             </div>

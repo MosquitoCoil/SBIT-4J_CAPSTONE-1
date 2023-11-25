@@ -79,6 +79,7 @@ class Patient extends CI_Controller{
     }
     public function registration() {
         $this->load->view('includes/header');
+        $this->load->view('pages/patient_registration');
     }
 }
 
