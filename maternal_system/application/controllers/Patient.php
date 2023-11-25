@@ -77,6 +77,9 @@ class Patient extends CI_Controller{
     
         redirect('patient/login');
     }
+    public function registration() {
+        $this->load->view('includes/header');
+    }
 }
 
 ?>
