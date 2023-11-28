@@ -33,15 +33,39 @@
                 <span class="text-light">
                   <i class="ti ti-layout-dashboard"></i>
                 </span>
-                <span class="hide-menu text-light">Dashboard</span>
+                <span class="hide-menu text-light">Overview</span>
               </a>
             </li>
             <li class="sidebar-item">
-              <a class="sidebar-link" href="<?php echo base_url('/barangays')?>" aria-expanded="false">
+              <a class="sidebar-link" href="#" aria-expanded="false">
                 <span class="text-light">
                 <i class="ti ti-building-warehouse"></i>
                 </span>
                 <span class="hide-menu text-light">My Profile</span>
+              </a>
+            </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="#" aria-expanded="false">
+                <span class="text-light">
+                <i class="fas fa-book-medical" style="font-size: 20px; padding-right: 3px"></i>
+                </span>
+                <span class="hide-menu text-light">Medical History</span>
+              </a>
+            </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="#" aria-expanded="false">
+                <span class="text-light">
+                <i class="fas fa-tasks" style="font-size: 20px; padding-right: 3px"></i>
+                </span>
+                <span class="hide-menu text-light">Request</span>
+              </a>
+            </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="#" aria-expanded="false">
+                <span class="text-light">
+                <i class="far fa-hospital" style="font-size: 20px; padding-right: 3px"></i>
+                </span>
+                <span class="hide-menu text-light">Hospital Suggestion</span>
               </a>
             </li>
             <li class="nav-small-cap">

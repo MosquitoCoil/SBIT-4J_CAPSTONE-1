@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/maternal_system/';
+$config['base_url'] = 'http://localhost/SBIT-4J_CAPSTONE-1/maternal_system/';
 
 /*
 |--------------------------------------------------------------------------
